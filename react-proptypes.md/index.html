@@ -546,19 +546,19 @@
 <div class="gatsby-highlight" data-language="bash"><pre class="language-bash"><code class="language-bash">$ <span class="token function">npm</span> <span class="token function">install</span> prop-types</code></pre></div>
 <p><code class="language-text">pakage.json</code> 파일로 들어가 다운되었는지 확인합니다.<br>
 dependencies 에 <code class="language-text">prop-types</code>가 있다면 설치가 완료된 것입니다.</p>
-<div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token operator">...</span><span class="token punctuation">.</span><span class="token punctuation">.</span>
-<span class="token string">"dependencies"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
-    <span class="token string">"@testing-library/jest-dom"</span><span class="token operator">:</span> <span class="token string">"^4.2.4"</span><span class="token punctuation">,</span>
-    <span class="token string">"@testing-library/react"</span><span class="token operator">:</span> <span class="token string">"^9.5.0"</span><span class="token punctuation">,</span>
-    <span class="token string">"@testing-library/user-event"</span><span class="token operator">:</span> <span class="token string">"^7.2.1"</span><span class="token punctuation">,</span>
-    <span class="token string">"axios"</span><span class="token operator">:</span> <span class="token string">"^0.19.2"</span><span class="token punctuation">,</span>
-    <span class="token string">"gh-pages"</span><span class="token operator">:</span> <span class="token string">"^2.2.0"</span><span class="token punctuation">,</span>
-    <span class="token string">"prop-types"</span><span class="token operator">:</span> <span class="token string">"^15.7.2"</span><span class="token punctuation">,</span> <span class="token comment">//(*)</span>
-    <span class="token string">"react"</span><span class="token operator">:</span> <span class="token string">"^16.13.1"</span><span class="token punctuation">,</span>
-    <span class="token string">"react-dom"</span><span class="token operator">:</span> <span class="token string">"^16.13.1"</span><span class="token punctuation">,</span>
-    <span class="token string">"react-scripts"</span><span class="token operator">:</span> <span class="token string">"3.4.1"</span>
+<div class="gatsby-highlight" data-language="json"><pre class="language-json"><code class="language-json">.....
+<span class="token property">"dependencies"</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+    <span class="token property">"@testing-library/jest-dom"</span><span class="token operator">:</span> <span class="token string">"^4.2.4"</span><span class="token punctuation">,</span>
+    <span class="token property">"@testing-library/react"</span><span class="token operator">:</span> <span class="token string">"^9.5.0"</span><span class="token punctuation">,</span>
+    <span class="token property">"@testing-library/user-event"</span><span class="token operator">:</span> <span class="token string">"^7.2.1"</span><span class="token punctuation">,</span>
+    <span class="token property">"axios"</span><span class="token operator">:</span> <span class="token string">"^0.19.2"</span><span class="token punctuation">,</span>
+    <span class="token property">"gh-pages"</span><span class="token operator">:</span> <span class="token string">"^2.2.0"</span><span class="token punctuation">,</span>
+    <span class="token property">"prop-types"</span><span class="token operator">:</span> <span class="token string">"^15.7.2"</span><span class="token punctuation">,</span> <span class="token comment">//(*)</span>
+    <span class="token property">"react"</span><span class="token operator">:</span> <span class="token string">"^16.13.1"</span><span class="token punctuation">,</span>
+    <span class="token property">"react-dom"</span><span class="token operator">:</span> <span class="token string">"^16.13.1"</span><span class="token punctuation">,</span>
+    <span class="token property">"react-scripts"</span><span class="token operator">:</span> <span class="token string">"3.4.1"</span>
   <span class="token punctuation">}</span><span class="token punctuation">,</span>
-<span class="token operator">...</span><span class="token punctuation">.</span><span class="token punctuation">.</span></code></pre></div>
+.....</code></pre></div>
 <h3 id="2-import-하기" style="position:relative;"><a href="#2-import-%ED%95%98%EA%B8%B0" aria-label="2 import 하기 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>2. import 하기</h3>
 <div class="gatsby-highlight" data-language="javascript"><pre class="language-javascript"><code class="language-javascript"><span class="token keyword">import</span> PropTypes <span class="token keyword">from</span> <span class="token string">'prop-types'</span><span class="token punctuation">;</span></code></pre></div>
 <h3 id="3-사용하기" style="position:relative;"><a href="#3-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0" aria-label="3 사용하기 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>3. 사용하기</h3>
@@ -676,7 +676,7 @@ MyComponent<span class="token punctuation">.</span>propTypes <span class="token 
   <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
 <span class="token punctuation">}</span><span class="token punctuation">;</span></code></pre></div>
 <hr>
-<h4 id="references" style="position:relative;"><a href="#references" aria-label="references permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>References</h4>
+<h4 id="reference" style="position:relative;"><a href="#reference" aria-label="reference permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Reference</h4>
 <ul>
 <li><a href="https://velopert.com/1130" target="_blank" rel="nofollow noopener noreferrer">https://velopert.com/1130</a></li>
 <li><a href="https://ko.reactjs.org/" target="_blank" rel="nofollow noopener noreferrer">https://ko.reactjs.org/</a></li>
