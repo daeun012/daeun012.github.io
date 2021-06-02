@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://daeun.github.io/sitemap.xml
-Host: https://daeun.github.io
+Sitemap: https://daeun012.github.io/sitemap.xml
+Host: https://daeun012.github.io
