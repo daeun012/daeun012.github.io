@@ -10,10 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/junhobaik/junhobaik.github.io"
+    "url": "https://github.com/daeun012/daeun012.github.io"
   },
   "bugs": {
-    "url": "https://github.com/junhobaik/junhobaik.github.io/issues"
+    "url": "https://github.com/daeun012/daeun012.github.io/issues"
   },
   "scripts": {
     "start": "gatsby develop",
