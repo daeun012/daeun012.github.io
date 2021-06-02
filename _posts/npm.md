@@ -44,6 +44,6 @@ keywords:
 
 ---
 
-#### References
+#### Reference
 
 - https://ko.javascript.info/

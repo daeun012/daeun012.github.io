@@ -107,6 +107,6 @@ new Promise((resolve, reject) => {
 
 ---
 
-#### References
+#### Reference
 
 - https://ko.javascript.info/

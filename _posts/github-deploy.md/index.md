@@ -55,7 +55,7 @@ $ npm install gh-pages
 
 package.json 파일에 `"homepage": "https://{GitHub username}.github.io/{Repository name}/" `을 추가해 주고,
 
-```javascript
+```json
 ....
 "browserslist": {
 "production": [
@@ -76,7 +76,7 @@ package.json 파일에 `"homepage": "https://{GitHub username}.github.io/{Reposi
 
 `package.json`의 `"scripts"` 부분에 `"deploy": "gh-pages -d build", "predeploy": "npm run build"`를 추가해 줍니다.
 
-```javascript
+```json
 ...
 "scripts": {
 "start": "react-scripts start",
@@ -103,6 +103,6 @@ hompage에 입력했던 주소로 접속하시면 프로젝트가 배포된 것�
 
 ---
 
-#### References
+#### Reference
 
 https://lktprogrammer.tistory.com/5

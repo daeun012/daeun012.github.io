@@ -70,6 +70,6 @@ ISP는 모두 함께 연결되는 몇몇 특수한 라우터를 관리하고 다
 
 ---
 
-#### References
+#### Reference
 
 https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work

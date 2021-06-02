@@ -24,7 +24,7 @@ $ npm install prop-types
 `pakage.json` 파일로 들어가 다운되었는지 확인합니다.  
 dependencies 에 `prop-types`가 있다면 설치가 완료된 것입니다.
 
-```javascript
+```json
 .....
 "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -165,7 +165,7 @@ MyComponent.propTypes = {
 
 ---
 
-#### References
+#### Reference
 
 - https://velopert.com/1130
 - https://ko.reactjs.org/

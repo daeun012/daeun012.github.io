@@ -130,7 +130,7 @@ componentWillUnmount() {
 
 ---
 
-#### References
+#### Reference
 
 - https://velopert.com/1130
 - https://ko.reactjs.org/

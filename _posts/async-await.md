@@ -103,6 +103,6 @@ let results = await Promise.all([
 
 ---
 
-#### References
+#### Reference
 
 - https://ko.javascript.info/

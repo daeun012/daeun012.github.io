@@ -72,7 +72,7 @@ console.log(me);
 
 ---
 
-#### References
+#### Reference
 
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Classes/constructor
 
