@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://daeun012.github.io/mongodb-connect.md/</loc> <lastmod>2020-08-15</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/npm-check-updates/</loc> <lastmod>2020-08-13</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/webpack/</loc> <lastmod>2020-08-11</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/babel/</loc> <lastmod>2020-08-10</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -8,8 +9,8 @@
 <url> <loc>https://daeun012.github.io/async-await/</loc> <lastmod>2019-06-02</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/react-lifecycle/</loc> <lastmod>2019-05-30</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/promise.md/</loc> <lastmod>2019-05-26</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://daeun012.github.io/es6-constructor/</loc> <lastmod>2019-04-24</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/github-deploy.md/</loc> <lastmod>2019-04-24</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://daeun012.github.io/es6-constructor/</loc> <lastmod>2019-04-24</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/front-dns.md/</loc> <lastmod>2019-03-06</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/front-hosting/</loc> <lastmod>2019-03-05</lastmod> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://daeun012.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
