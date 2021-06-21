@@ -1,6 +1,6 @@
 ---
 title: Object.assign을 이용한 객체 복사하기
-date: 2019-10-17
+date: 2019-10-18
 tags:
   - JavaScript
   - ES6
