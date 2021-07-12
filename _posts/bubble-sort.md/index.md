@@ -1,5 +1,5 @@
 ---
-title: 버블 정렬
+title: 버블 정렬(Bubble Sort)
 date: 2021-07-12
 tags:
   - Argorithm
