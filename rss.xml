@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ToDev | Feed]]></title><description><![CDATA[Daeun Kim's Development Blog]]></description><link>https://daeun012.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Jul 2021 08:35:30 GMT</lastBuildDate><item><title><![CDATA[버블 정렬]]></title><description><![CDATA[버블 정렬(Bubble Sort)이란? 버블 정렬 살펴보기 버블 정렬 실행해보기 with 자바스크립트 버블 정렬(Bubble Sort)이란? 서로 인접한 두 원소를 검사해 정렬하는 알고리즘이다. 오름차순을 기준으로 정렬한다. 큰 숫자가 왼쪽에서 오른…]]></description><link>https://daeun012.github.io/bubble-sort.md/</link><guid isPermaLink="false">https://daeun012.github.io/bubble-sort.md/</guid><pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ToDev | Feed]]></title><description><![CDATA[Daeun Kim's Development Blog]]></description><link>https://daeun012.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Jul 2021 08:48:43 GMT</lastBuildDate><item><title><![CDATA[버블 정렬(Bubble Sort)]]></title><description><![CDATA[버블 정렬(Bubble Sort)이란? 버블 정렬 살펴보기 버블 정렬 실행해보기 with 자바스크립트 버블 정렬(Bubble Sort)이란? 서로 인접한 두 원소를 검사해 정렬하는 알고리즘이다. 오름차순을 기준으로 정렬한다. 큰 숫자가 왼쪽에서 오른…]]></description><link>https://daeun012.github.io/bubble-sort.md/</link><guid isPermaLink="false">https://daeun012.github.io/bubble-sort.md/</guid><pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;버블 정렬(Bubble Sort)이란?&lt;/li&gt;
 &lt;li&gt;버블 정렬 살펴보기&lt;/li&gt;
 &lt;li&gt;버블 정렬 실행해보기 with 자바스크립트&lt;/li&gt;
@@ -282,6 +282,73 @@
 &lt;h4 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.gilbut.co.kr/book/view?bookcode=BN002328&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;모두의 알고리즘 with 자바스크립트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[시간 복잡성과 O 표기법]]></title><description><![CDATA[시간 복잡성이란? O 표기법 시간 복잡성이란? 계산의 복잡성,
+계산이 복잡해지는 만큼 처리하는 스텝의 개수가 늘어나므로 는 뜻이다. 스텝 : CPU가 실행하는 명령 O 표기법 알고리즘의  될지 대략적으로 표현한 지표. 구체적인 실행 시간이나 명령의 …]]></description><link>https://daeun012.github.io/time-complexity/</link><guid isPermaLink="false">https://daeun012.github.io/time-complexity/</guid><pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;시간 복잡성이란?&lt;/li&gt;
+&lt;li&gt;O 표기법&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;시간-복잡성이란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EC%84%B1%EC%9D%B4%EB%9E%80&quot; aria-label=&quot;시간 복잡성이란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시간 복잡성이란?&lt;/h2&gt;
+&lt;p&gt;계산의 복잡성,
+계산이 복잡해지는 만큼 처리하는 스텝의 개수가 늘어나므로 &lt;code class=&quot;language-text&quot;&gt;실행 시간이 오래 걸린다&lt;/code&gt;는 뜻이다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;스텝 : CPU가 실행하는 명령&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;o-표기법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#o-%ED%91%9C%EA%B8%B0%EB%B2%95&quot; aria-label=&quot;o 표기법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;O 표기법&lt;/h2&gt;
+&lt;p&gt;알고리즘의 &lt;code class=&quot;language-text&quot;&gt;계산량이 얼마나&lt;/code&gt; 될지 대략적으로 표현한 지표.&lt;br&gt;
+구체적인 실행 시간이나 명령의 개수는 알려주지 않는다.&lt;/p&gt;
+&lt;p&gt;같은 프로그램을 실행해도 &lt;code class=&quot;language-text&quot;&gt;컴퓨터의 처리 성능&lt;/code&gt;에 따라 &lt;code class=&quot;language-text&quot;&gt;실행 시간이 달라&lt;/code&gt;지기 때문에,
+입력된 데이터 n의 크기에 따라 시간 계산량이 &lt;code class=&quot;language-text&quot;&gt;어느 정도의 비율로 늘어나는지&lt;/code&gt;를 O(n 식)의 형태로 표현하는 것이다.&lt;/p&gt;
+&lt;p&gt;O(n) : 입력한 데이터의 크기(개수나 자릿수 등)을 n이라고 했을 때 알고리즘을 최대 n번 실행하면 처리가 완료된다는 뜻이다.(반드시 n번만에 완료된다는 것이 아니라 알고리즘의 최대 실행 횟수가 n번이라는 뜻이다.)&lt;/p&gt;
+&lt;h3 id=&quot;1-o-표기법의-식&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#1-o-%ED%91%9C%EA%B8%B0%EB%B2%95%EC%9D%98-%EC%8B%9D&quot; aria-label=&quot;1 o 표기법의 식 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. O 표기법의 식&lt;/h3&gt;
+&lt;p&gt;차수가 가장 큰 항만 남기고 계수는 1로 한다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;O(3) → O(1)
+O(n-1) → O(n)
+O(4n²+3n) → O(n²)
+O(n³+7n²+12) → O(n³)
+O(2n³+3m²) → O(n³+m²)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;2-괄호-안에-자주-사용되는-식과-계산량의-대소-관계&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2-%EA%B4%84%ED%98%B8-%EC%95%88%EC%97%90-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EC%8B%9D%EA%B3%BC-%EA%B3%84%EC%82%B0%EB%9F%89%EC%9D%98-%EB%8C%80%EC%86%8C-%EA%B4%80%EA%B3%84&quot; aria-label=&quot;2 괄호 안에 자주 사용되는 식과 계산량의 대소 관계 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. 괄호 안에 자주 사용되는 식과 계산량의 대소 관계&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ac02399901739724c65dc49ae251509a/f0685/priority.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAXElEQVQI103NWQrAIAwEUO9/UcUlouKKMCUDLf0IzOQFYuac0Ln3ovfOfM5h/9sYg773/vztmltrWGvBpJQQYyR472GtRc6ZKCIIITDrjZr2Wit3zjmUUvhUTfcPFJmaDD7gFNQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;O 표기법&quot;
+        title=&quot;O 표기법&quot;
+        src=&quot;/static/ac02399901739724c65dc49ae251509a/fcda8/priority.png&quot;
+        srcset=&quot;/static/ac02399901739724c65dc49ae251509a/12f09/priority.png 148w,
+/static/ac02399901739724c65dc49ae251509a/e4a3f/priority.png 295w,
+/static/ac02399901739724c65dc49ae251509a/fcda8/priority.png 590w,
+/static/ac02399901739724c65dc49ae251509a/f0685/priority.png 835w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3-오더-수와-시간-계산량&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#3-%EC%98%A4%EB%8D%94-%EC%88%98%EC%99%80-%EC%8B%9C%EA%B0%84-%EA%B3%84%EC%82%B0%EB%9F%89&quot; aria-label=&quot;3 오더 수와 시간 계산량 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. 오더 수와 시간 계산량&lt;/h3&gt;
+&lt;p&gt;시간 계산량의 오더에서&lt;br&gt;
+O(n), O(n²), O(n³)과 같은 오더를 가르켜 &lt;code class=&quot;language-text&quot;&gt;다항 시간 알고리즘&lt;/code&gt;이라 부르며&lt;br&gt;
+O(n!), O(2ⁿ)과 같은 오더는 &lt;code class=&quot;language-text&quot;&gt;지수 시간 알고리즘&lt;/code&gt;이라 부른다.&lt;/p&gt;
+&lt;p&gt;다항 시간 알고리즘으로는 어느 정도 실용적인 프로그램을 만들어 낼 수 있다.&lt;br&gt;
+하지만 지수 시간 알고리즘은 n값이 증가함에 따라 계산량도 급격히 늘어나기 때문에 현실적인 시간 내에 문제를 해결하지 못할 우려가 있다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h4 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gilbut.co.kr/book/view?bookcode=BN002328&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;모두의 알고리즘 with 자바스크립트&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[선택 정렬(Selection Sort)]]></title><description><![CDATA[선택 정렬(Selection Sort)이란? 선택 정렬 살펴보기 선택 정렬 실행해보기 with 자바스크립트 선택 정렬(Selection Sort)이란? 값이 가장 작은 숫자를 찾아 가장 왼쪽에 있는 데이터부터 순서대로 데이터를 교환하여 정렬하는 처리…]]></description><link>https://daeun012.github.io/selection-sort.md/</link><guid isPermaLink="false">https://daeun012.github.io/selection-sort.md/</guid><pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;선택 정렬(Selection Sort)이란?&lt;/li&gt;
 &lt;li&gt;선택 정렬 살펴보기&lt;/li&gt;
@@ -413,73 +480,6 @@
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.gilbut.co.kr/book/view?bookcode=BN002328&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;모두의 알고리즘 with 자바스크립트&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[시간 복잡성과 O 표기법]]></title><description><![CDATA[시간 복잡성이란? O 표기법 시간 복잡성이란? 계산의 복잡성,
-계산이 복잡해지는 만큼 처리하는 스텝의 개수가 늘어나므로 는 뜻이다. 스텝 : CPU가 실행하는 명령 O 표기법 알고리즘의  될지 대략적으로 표현한 지표. 구체적인 실행 시간이나 명령의 …]]></description><link>https://daeun012.github.io/time-complexity/</link><guid isPermaLink="false">https://daeun012.github.io/time-complexity/</guid><pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;시간 복잡성이란?&lt;/li&gt;
-&lt;li&gt;O 표기법&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;시간-복잡성이란&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EC%84%B1%EC%9D%B4%EB%9E%80&quot; aria-label=&quot;시간 복잡성이란 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시간 복잡성이란?&lt;/h2&gt;
-&lt;p&gt;계산의 복잡성,
-계산이 복잡해지는 만큼 처리하는 스텝의 개수가 늘어나므로 &lt;code class=&quot;language-text&quot;&gt;실행 시간이 오래 걸린다&lt;/code&gt;는 뜻이다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;스텝 : CPU가 실행하는 명령&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&quot;o-표기법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#o-%ED%91%9C%EA%B8%B0%EB%B2%95&quot; aria-label=&quot;o 표기법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;O 표기법&lt;/h2&gt;
-&lt;p&gt;알고리즘의 &lt;code class=&quot;language-text&quot;&gt;계산량이 얼마나&lt;/code&gt; 될지 대략적으로 표현한 지표.&lt;br&gt;
-구체적인 실행 시간이나 명령의 개수는 알려주지 않는다.&lt;/p&gt;
-&lt;p&gt;같은 프로그램을 실행해도 &lt;code class=&quot;language-text&quot;&gt;컴퓨터의 처리 성능&lt;/code&gt;에 따라 &lt;code class=&quot;language-text&quot;&gt;실행 시간이 달라&lt;/code&gt;지기 때문에,
-입력된 데이터 n의 크기에 따라 시간 계산량이 &lt;code class=&quot;language-text&quot;&gt;어느 정도의 비율로 늘어나는지&lt;/code&gt;를 O(n 식)의 형태로 표현하는 것이다.&lt;/p&gt;
-&lt;p&gt;O(n) : 입력한 데이터의 크기(개수나 자릿수 등)을 n이라고 했을 때 알고리즘을 최대 n번 실행하면 처리가 완료된다는 뜻이다.(반드시 n번만에 완료된다는 것이 아니라 알고리즘의 최대 실행 횟수가 n번이라는 뜻이다.)&lt;/p&gt;
-&lt;h3 id=&quot;o-표기법의-식&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#o-%ED%91%9C%EA%B8%B0%EB%B2%95%EC%9D%98-%EC%8B%9D&quot; aria-label=&quot;o 표기법의 식 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;O 표기법의 식&lt;/h3&gt;
-&lt;p&gt;차수가 가장 큰 항만 남기고 계수는 1로 한다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;O(3) → O(1)
-O(n-1) → O(n)
-O(4n²+3n) → O(n²)
-O(n³+7n²+12) → O(n³)
-O(2n³+3m²) → O(n³+m²)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3 id=&quot;괄호-안에-자주-사용되는-식과-계산량의-대소-관계&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B4%84%ED%98%B8-%EC%95%88%EC%97%90-%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EC%8B%9D%EA%B3%BC-%EA%B3%84%EC%82%B0%EB%9F%89%EC%9D%98-%EB%8C%80%EC%86%8C-%EA%B4%80%EA%B3%84&quot; aria-label=&quot;괄호 안에 자주 사용되는 식과 계산량의 대소 관계 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;괄호 안에 자주 사용되는 식과 계산량의 대소 관계&lt;/h3&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ac02399901739724c65dc49ae251509a/f0685/priority.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 11.486486486486488%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAACCAYAAABYBvyLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAXElEQVQI103NWQrAIAwEUO9/UcUlouKKMCUDLf0IzOQFYuac0Ln3ovfOfM5h/9sYg773/vztmltrWGvBpJQQYyR472GtRc6ZKCIIITDrjZr2Wit3zjmUUvhUTfcPFJmaDD7gFNQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;O 표기법&quot;
-        title=&quot;O 표기법&quot;
-        src=&quot;/static/ac02399901739724c65dc49ae251509a/fcda8/priority.png&quot;
-        srcset=&quot;/static/ac02399901739724c65dc49ae251509a/12f09/priority.png 148w,
-/static/ac02399901739724c65dc49ae251509a/e4a3f/priority.png 295w,
-/static/ac02399901739724c65dc49ae251509a/fcda8/priority.png 590w,
-/static/ac02399901739724c65dc49ae251509a/f0685/priority.png 835w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h3 id=&quot;오더-수와-시간-계산량&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8D%94-%EC%88%98%EC%99%80-%EC%8B%9C%EA%B0%84-%EA%B3%84%EC%82%B0%EB%9F%89&quot; aria-label=&quot;오더 수와 시간 계산량 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오더 수와 시간 계산량&lt;/h3&gt;
-&lt;p&gt;시간 계산량의 오더에서&lt;br&gt;
-O(n), O(n²), O(n³)과 같은 오더를 가르켜 &lt;code class=&quot;language-text&quot;&gt;다항 시간 알고리즘&lt;/code&gt;이라 부르며&lt;br&gt;
-O(n!), O(2ⁿ)과 같은 오더는 &lt;code class=&quot;language-text&quot;&gt;지수 시간 알고리즘&lt;/code&gt;이라 부른다.&lt;/p&gt;
-&lt;p&gt;다항 시간 알고리즘으로는 어느 정도 실용적인 프로그램을 만들어 낼 수 있다.&lt;br&gt;
-하지만 지수 시간 알고리즘은 n값이 증가함에 따라 계산량도 급격히 늘어나기 때문에 현실적인 시간 내에 문제를 해결하지 못할 우려가 있다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&quot;reference&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#reference&quot; aria-label=&quot;reference permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reference&lt;/h4&gt;
 &lt;ul&gt;
