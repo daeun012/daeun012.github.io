@@ -1,5 +1,5 @@
 ---
-title: [혼자 공부하는 파이썬] Python 용어 정리
+title: 혼자 공부하는 파이썬 - Python 용어 정리
 date: 2021-07-16
 tags:
   - Python
