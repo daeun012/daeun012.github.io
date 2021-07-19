@@ -96,7 +96,6 @@ else :
 ```
 
 실행결과
-
 ```
 0은 False로 변환됩니다.
 빈 문자열은 False로 변환됩니다.
@@ -119,7 +118,6 @@ else :
 ```
 
 실행결과
-
 ```
 IndentationError: expected an indented block
 ```
@@ -163,7 +161,6 @@ else :
 ```
 
 실행결과
-
 ```
 Traceback (most recent call last):
   File "c:\Users\다은\Desktop\test\format3.py", line 6, in <module>
