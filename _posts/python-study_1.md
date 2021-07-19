@@ -26,7 +26,7 @@ keywords:
 
 ### 2. 파이썬의 키워드 확인해보기
 
-```{.python}
+```python
 >>> import keyword
 >>> print(keyword.kwlist)
 ```
@@ -35,7 +35,7 @@ keywords:
 
 ＊ 파이썬은 대문자와 소문자를 구분한다.
 
-```{.python}
+```python
 ['False', 'None', 'True', '__peg_parser__', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
 ```
 
@@ -70,7 +70,7 @@ keywords:
 
 ## 주석
 
-```{.python}
+```python
 >>> # 앞에 샵 기호를 붙여 주석 처리를 합니다.
 >>> print("Hello Python!") # 문자열을 출력합니다.
 ```
@@ -81,7 +81,7 @@ keywords:
 
 Python 에서의 출력은 print() 함수를 사용하는 것이다.
 
-```{.python}
+```python
 >>> print("Hello Python!")
 Hello Python!
 >>> print("Hello Python!",52,57)

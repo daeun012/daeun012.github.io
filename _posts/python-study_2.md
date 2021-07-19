@@ -18,7 +18,7 @@ keywords:
 
 파이썬에서 자료의 형식을 확인할 때는 `type()` 함수를 사용한다.
 
-```{.python}
+```python
 >>> print(type("안녕하세요"))
 <class 'str'>
 >>> print(type(2763))
@@ -35,7 +35,7 @@ keywords:
 
 두 문자열을 연결해 새로운 문자열을 만든다
 
-```{.python}
+```python
 >>> print("안녕" +"하세요")
 안녕하세요
 >>> print("안녕하세요" +"!")
@@ -44,7 +44,7 @@ keywords:
 
 문자열과 숫자의 연결은 불가능하다.
 
-```{.python}
+```python
 >>> print("안녕" + 1)
 ```
 
@@ -52,7 +52,7 @@ keywords:
 
 문자열을 숫자와 \* 연산자로 연결하면 문자열을 반복할 수 있다.
 
-```{.python}
+```python
 >>> print("안녕" *3)
 안녕안녕안녕
 ```
@@ -61,7 +61,7 @@ keywords:
 
 문자열 내부의 문자 하나를 선택하는 연산자이다.
 
-```{.python}
+```python
 >>> print("안녕하세요"[0])
 안
 >>> print("안녕하세요"[1])
@@ -80,7 +80,7 @@ keywords:
 
 문자열의 특정 범위를 선택할 때 사용하는 연산자
 
-```{.python}
+```python
 >>> print("안녕하세요"[1:4])
 녕하세
 >>> print("안녕하세요"[0:2])
@@ -99,7 +99,7 @@ keywords:
 
 문자열의 길이를 구할 때는 `len()` 함수를 사용한다.
 
-```{.python}
+```python
 >>> print(len("Hello Python!"))
 13
 ```
