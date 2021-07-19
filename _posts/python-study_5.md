@@ -81,7 +81,7 @@ print(output_d)
 print(output_e)
 ```
 
-실행 결과
+실행결과
 
 ```
 # 기본
@@ -108,7 +108,7 @@ print(output_c)
 print(output_d)
 ```
 
-실행 결과
+실행결과
 
 ```
 +52
@@ -135,7 +135,7 @@ print(output_e)
 print(output_f)
 ```
 
-실행 결과
+실행결과
 
 ```
   +52
@@ -162,7 +162,7 @@ print(output_c)
 print(output_d)
 ```
 
-실행 결과
+실행결과
 
 ```
 52.273000
@@ -183,7 +183,7 @@ print(output_b)
 print(output_c)
 ```
 
-실행 결과
+실행결과
 
 ```
          52.273
@@ -203,7 +203,7 @@ print(output_a)
 print(output_b)
 ```
 
-실행 결과
+실행결과
 
 ```
 52.0

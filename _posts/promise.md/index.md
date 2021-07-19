@@ -43,7 +43,7 @@ let promise = new Promise(function (resolve, reject) {
 ```javascript
 promise.then(
   function (result) {
-    /* 프라미스가 이행되었을 때 실행, 실행 결과를 받는다.*/
+    /* 프라미스가 이행되었을 때 실행, 실행결과를 받는다.*/
   },
   function (error) {
     /* 프라미스가 거부되었을 때 실행, 에러를 받는다. */
