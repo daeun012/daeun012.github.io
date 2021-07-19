@@ -95,7 +95,8 @@ else :
     print("빈 문자열은 False로 변환됩니다.")
 ```
 
-실행결과
+▶ 실행결과
+
 ```
 0은 False로 변환됩니다.
 빈 문자열은 False로 변환됩니다.
@@ -117,7 +118,8 @@ else :
   # 음수일 때 : 아직 미구현 상태
 ```
 
-실행결과
+▶ 실행결과
+
 ```
 IndentationError: expected an indented block
 ```
@@ -160,7 +162,8 @@ else :
   raise NotImplementedError
 ```
 
-실행결과
+▶ 실행결과
+
 ```
 Traceback (most recent call last):
   File "c:\Users\다은\Desktop\test\format3.py", line 6, in <module>

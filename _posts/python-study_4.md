@@ -120,6 +120,7 @@ print("숫자 자료:", int_a+int_b)
 ```
 
 ▶ 실행결과
+
 ```python
 입력A> 273
 입력B> 52
@@ -175,6 +176,7 @@ print(type(output_b), output_b)
 ```
 
 ▶ 실행결과
+
 ```python
 <class 'str'> 52
 <class 'str'> 52.273
