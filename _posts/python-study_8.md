@@ -1,6 +1,6 @@
 ---
 title: 혼자 공부하는 파이썬 - 리스트와 반복문
-date: 2021-07-21
+date: 2021-07-20
 tags:
   - Python
 keywords:

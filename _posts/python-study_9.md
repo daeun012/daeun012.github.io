@@ -1,6 +1,6 @@
 ---
 title: 혼자 공부하는 파이썬 - 딕셔너리와 반복문
-date: 2021-07-21
+date: 2021-07-20
 tags:
   - Python
 keywords:
@@ -163,8 +163,6 @@ if key in dictionary :
   print(dictionary[key])
 else :
   print("존재하지 않는 키에 접근하고 있습니다.")
-
-
 ```
 
 ▶ 실행결과
