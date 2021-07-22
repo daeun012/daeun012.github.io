@@ -2,7 +2,7 @@
 title: 선택 정렬(Selection Sort)
 date: 2021-07-12
 tags:
-  - Argorithm
+  - 알고리즘
   - JavaScript
 keywords:
   - argorithm

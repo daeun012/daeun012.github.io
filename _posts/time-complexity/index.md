@@ -2,7 +2,7 @@
 title: 시간 복잡성과 O 표기법
 date: 2021-07-12
 tags:
-  - Argorithm
+  - 알고리즘
 keywords:
   - 시간복잡성
   - O표기법

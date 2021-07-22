@@ -3,7 +3,7 @@ title: 퀵 정렬(Quick Sort)
 date: 2021-07-12
 tags:
   - JavaScript
-  - Argorithm
+  - 알고리즘
 keywords:
   - argorithm
   - 퀵 정렬
